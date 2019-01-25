@@ -1,1 +1,1 @@
-# This is Christina Hilburger's LLCU-612 GitHub repository.
+# This is Christina Hilburger's LLCU-612 GitHub Repository.
